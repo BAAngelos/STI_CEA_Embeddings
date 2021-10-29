@@ -10,3 +10,5 @@ it creates all other dataset e.g. "complete_tables" and "embeddingCorrespondence
 First create complete_tables then out of those you can create embeddingsCorrespondence
 
 This file also generates the baseline results, the embeddings result aswell as evaluating them for the T2D datasets
+
+The rest is just noise I created, but uploaded it for the sake of completion
